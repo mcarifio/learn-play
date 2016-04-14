@@ -1,0 +1,81 @@
+Enter your command and any data it requires, or Q to quit.
+
+No player with number 11 is on the roster for the RedSox.
+Next(Q to quit)?
+
+No player with number 51 is on the roster for the RedSox.
+Next(Q to quit)?
+
+No player with number 34 is on the roster for the RedSox.
+Next(Q to quit)?
+
+No player with number 25 is on the roster for the RedSox.
+Next(Q to quit)?
+
+The Yankees's Player number 33 is a right-handed pitcher named Chris and has statistics
+PA: 40 BB: 20 SO: 0 H: 20 IP: 0 ER: 5 ERA: n/a WHIP: n/a
+Next(Q to quit)?
+
+The Yankees's Player number 48 is a left-handed pitcher named Andrew and has statistics
+PA: 0 BB: 0 SO: 0 H: 0 IP: 0 ER: 0 ERA: n/a WHIP: n/a
+Next(Q to quit)?
+
+No player with number 22 is on the roster for the Yankees.
+Next(Q to quit)?
+
+No player with number 11 is on the roster for the Yankees.
+Next(Q to quit)?
+
+The Rays's Player number 59 is a right-handed pitcher named Andrew and has statistics
+PA: 420 BB: 27 SO: 60 H: 105 IP: 83 1/3 ER: 30 ERA: 3.24 WHIP: 1.58
+Next(Q to quit)?
+
+The Rays's Player number 40 is a right-handed catcher named J.P. and has statistics
+PA: 612 BB: 39 SO: 114 H: 163 AB: 393 BI: 99 HR: 28 HBP: 2 BA: 0.415 OBP: 0.333
+Next(Q to quit)?
+
+The Rays's Player number 21 is a right-handed first baseman named James and has statistics
+PA: 638 BB: 56 SO: 97 H: 217 AB: 397 BI: 103 HR: 29 HBP: 1 BA: 0.547 OBP: 0.429
+Next(Q to quit)?
+
+The Rays's Player number 11 is a right-handed second baseman named Logan and has statistics
+PA: 547 BB: 46 SO: 107 H: 142 AB: 391 BI: 100 HR: 0 HBP: 3 BA: 0.363 OBP: 0.349
+Next(Q to quit)?
+
+The Rays's Player number 3 is a right-handed third baseman named Evan and has statistics
+PA: 624 BB: 61 SO: 102 H: 140 AB: 442 BI: 63 HR: 16 HBP: 3 BA: 0.317 OBP: 0.327
+Next(Q to quit)?
+
+The Rays's Player number 13 is a right-handed shortstop named Asdrubal and has statistics
+PA: 680 BB: 46 SO: 100 H: 127 AB: 455 BI: 43 HR: 7 HBP: 4 BA: 0.279 OBP: 0.260
+Next(Q to quit)?
+
+The BlueJays's Player number 7 is a right-handed left fielder named Ben and has statistics
+PA: 621 BB: 37 SO: 98 H: 149 AB: 382 BI: 86 HR: 5 HBP: 4 BA: 0.390 OBP: 0.306
+Next(Q to quit)?
+
+The BlueJays's Player number 45 is a right-handed center fielder named Dalton and has statistics
+PA: 638 BB: 36 SO: 104 H: 246 AB: 343 BI: 115 HR: 30 HBP: 2 BA: 0.717 OBP: 0.445
+Next(Q to quit)?
+
+The BlueJays's Player number 19 is a right-handed right fielder named Jose and has statistics
+PA: 712 BB: 44 SO: 115 H: 239 AB: 429 BI: 145 HR: 28 HBP: 1 BA: 0.557 OBP: 0.399
+Next(Q to quit)?
+
+There are 18 pitchers on the Orioles and their aggregated statistics are
+PA: 7134 BB: 512 SO: 1119 H: 1764 IP: 1467 2/3 ER: 637 ERA: 3.91 WHIP: 1.55
+
+Next(Q to quit)?
+
+There are 17 hitters on the Orioles and their aggregated statistics are
+PA: 11085 BB: 789 SO: 1570 H: 2531 AB: 7345 BI: 1324 HR: 258 HBP: 42 BA: 0.345 OBP: 0.303
+Next(Q to quit)?
+
+There are 23 pitchers on the Rays and their aggregated statistics are
+PA: 9112 BB: 599 SO: 1432 H: 2225 IP: 1836 2/3 ER: 828 ERA: 4.06 WHIP: 1.54
+
+Next(Q to quit)?
+
+There are 10 hitters on the Rays and their aggregated statistics are
+PA: 6717 BB: 470 SO: 993 H: 1652 AB: 4192 BI: 1046 HR: 180 HBP: 24 BA: 0.394 OBP: 0.319
+Next(Q to quit)?

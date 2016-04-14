@@ -1,0 +1,15 @@
+L RedSox 100
+L RedSox 10
+L RedSox 7
+L RedSox 15
+L Yankees 100
+L Yankees 38
+L Yankees 68
+L Yankees 41
+P RedSox 
+P Yankees 
+H RedSox 
+H Yankees
+P BlueJays
+H BlueJays
+Q

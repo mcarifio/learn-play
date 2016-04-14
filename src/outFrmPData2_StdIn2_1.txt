@@ -1,0 +1,55 @@
+Enter your command and any data it requires, or Q to quit.
+
+No player with number 100 is on the roster for the RedSox.
+Next(Q to quit)?
+
+The RedSox's Player number 10 is a right-handed catcher named Ryan and has statistics
+PA: 0 BB: 0 SO: 0 H: 0 AB: 0 BI: 0 HR: 0 HBP: 0 BA: n/a OBP: n/a
+Next(Q to quit)?
+
+The RedSox's Player number 7 is a right-handed catcher named Christian and has statistics
+PA: 101 BB: 95 SO: 0 H: 0 AB: 0 BI: 95 HR: 0 HBP: 6 BA: n/a OBP: 1.000
+Next(Q to quit)?
+
+The RedSox's Player number 15 is a right-handed second baseman named Dustin and has statistics
+PA: 635 BB: 36 SO: 105 H: 227 AB: 304 BI: 113 HR: 28 HBP: 1 BA: 0.747 OBP: 0.416
+Next(Q to quit)?
+
+No player with number 100 is on the roster for the Yankees.
+Next(Q to quit)?
+
+The Yankees's Player number 38 is a right-handed pitcher named Andrew and has statistics
+PA: 388 BB: 22 SO: 67 H: 119 IP: 0 ER: 37 ERA: n/a WHIP: n/a
+Next(Q to quit)?
+
+The Yankees's Player number 68 is a right-handed pitcher named Dellin and has statistics
+PA: 364 BB: 34 SO: 65 H: 86 IP: 88 1/3 ER: 32 ERA: 3.26 WHIP: 1.36
+Next(Q to quit)?
+
+The Yankees's Player number 41 is a left-handed pitcher named Justin and has statistics
+PA: 365 BB: 26 SO: 49 H: 104 IP: 83 2/3 ER: 35 ERA: 3.76 WHIP: 1.55
+Next(Q to quit)?
+
+The RedSox appear to have no pitchers at this time.
+Next(Q to quit)?
+
+There are 20 pitchers on the Yankees and their aggregated statistics are
+PA: 8104 BB: 524 SO: 1175 H: 2001 IP: 1538 2/3 ER: 707 ERA: 4.14 WHIP: 1.64
+
+Next(Q to quit)?
+
+There are 14 hitters on the RedSox and their aggregated statistics are
+PA: 8269 BB: 619 SO: 1080 H: 2182 AB: 4872 BI: 1367 HR: 232 HBP: 35 BA: 0.448 OBP: 0.343
+Next(Q to quit)?
+
+The Yankees appear to have no position players at this time.
+Next(Q to quit)?
+
+There are 15 pitchers on the BlueJays and their aggregated statistics are
+PA: 6136 BB: 394 SO: 978 H: 1531 IP: 1212 1/3 ER: 525 ERA: 3.90 WHIP: 1.59
+
+Next(Q to quit)?
+
+There are 14 hitters on the BlueJays and their aggregated statistics are
+PA: 8834 BB: 628 SO: 1299 H: 2200 AB: 5546 BI: 1161 HR: 231 HBP: 33 BA: 0.397 OBP: 0.324
+Next(Q to quit)?
